@@ -1,0 +1,90 @@
+1558202980589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jFJuSy3aw03j"
+1558202985395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558202985395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558202985395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558202991941	Marionette	INFO	Listening on port 44475
+1558202992294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558203000009	Marionette	INFO	Stopped listening on port 44475
+[Parent 31642, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 31642, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558203001503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vbwRlsibd7Hq"
+1558203002084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558203002085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558203002085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558203005279	Marionette	INFO	Listening on port 45965
+1558203005324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558203014822	Marionette	INFO	Stopped listening on port 45965
+JavaScript error: https://secure.carfax.com/creditCard.cfx?make=TOYOTA&model=CRESSIDA%20LUXURY&year=1986&vin=JT2MX73E6G0054502&numberOfRecords=18, line 13: NS_ERROR_NOT_INITIALIZED: 
+1558203016998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x2XBb0cTnXuu"
+1558203017506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558203017506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558203017506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558203020727	Marionette	INFO	Listening on port 39191
+1558203020815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558203025146	Marionette	INFO	Stopped listening on port 39191
+[Parent 32211, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558203026503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u7QytLNlE7FR"
+1558203027043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558203027043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558203027043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558203029736	Marionette	INFO	Listening on port 45153
+1558203029841	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gdk-Message: 14:10:39.354: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1015.
+
+Gdk-Message: 14:10:39.354: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1015.
+
+Exiting due to channel error.
+Exiting due to channel error.
+1558203470622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b2IDZnfiQ7y9"
+1558203471137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558203471138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558203471138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558203474222	Marionette	INFO	Listening on port 36309
+1558203474237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558203481533	Marionette	INFO	Stopped listening on port 36309
+[Child 417, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 417, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 32764, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558203482698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KVpmSqsJCUNJ"
+1558203483244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558203483245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558203483245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558203486236	Marionette	INFO	Listening on port 41113
+1558203486342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558203496137	Marionette	INFO	Stopped listening on port 41113
+JavaScript error: https://secure.carfax.com/creditCard.cfx?make=TOYOTA&model=CRESSIDA%20LUXURY&year=1986&vin=JT2MX73E6G0054502&numberOfRecords=18, line 13: NS_ERROR_NOT_INITIALIZED: 
+1558203498389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bTByeqSjNzUS"
+1558203498917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558203498917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558203498918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558203501628	Marionette	INFO	Listening on port 43665
+1558203501738	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gdk-Message: 14:18:28.906: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1013.
+
+Gdk-Message: 14:18:28.906: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1013.
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Exiting due to channel error.
+Exiting due to channel error.
+1558203726744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sUcxYFK9uWoU"
+1558203727249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558203727249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558203727249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558203730354	Marionette	INFO	Listening on port 43509
+1558203730457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558203744129	Marionette	INFO	Stopped listening on port 43509
+JavaScript error: https://secure.carfax.com/creditCard.cfx?make=TOYOTA&model=CRESSIDA%20LUXURY&year=1986&vin=JT2MX73E6G0054502&numberOfRecords=18, line 13: NS_ERROR_NOT_INITIALIZED: 
+1558203745397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3Re5YoBqRyUm"
+1558203745932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558203745932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558203745932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558203748656	Marionette	INFO	Listening on port 46591
+1558203748761	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gdk-Message: 14:22:36.959: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1011.
+
+Gdk-Message: 14:22:36.965: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1011.
+
+Gdk-Message: 14:22:36.959: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1011.
+
+[Child 1795, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
