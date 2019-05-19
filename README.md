@@ -10,3 +10,10 @@ prices are only a rough estimate...<br>
 Database hooks are not included in this version, so it can be run easliy in a python environment.  This version<br>
 is used to test and improve the web-scraping capabilities and robustness of the code for obtaining car data.<br>
 It is an excellent example for persons interested in using a headless browser coupled with Beautiful Soup and Selenium.
+
+Packages required to operate:<br>
+bs4<br>
+selenium<br>
+pyvirtualdisplay<br>
+numpy<br>
+geckodriver
